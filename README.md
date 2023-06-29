@@ -1,5 +1,6 @@
 # ProjetoFinalAlgoritmos
 
+    O codigo deve ser executado no GDB Online Debugger, podendo apenas copiar e colar que ira funcionar.
     O projeto foi realizado na primeira fase de ciencia da computação, foi desenvolvido um algoritmo que resolva um caca-palavras em C.
   O projeto foi realizado na primeira fase de ciencia da computação, foi desenvolvido um algoritmo que resolva um caca-palavras em C.
   O desenvolvimento do projeto foi feito com a seguindo ideia é fornecida uma string com os valores da matriz que forma um caca-palavras,
