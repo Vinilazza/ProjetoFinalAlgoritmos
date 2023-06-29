@@ -4,6 +4,8 @@
   O projeto foi realizado na primeira fase de ciencia da computação, foi desenvolvido um algoritmo que resolva um caca-palavras em C.
   O desenvolvimento do projeto foi feito com a seguindo ideia é fornecida uma string com os valores da matriz que forma um caca-palavras,
 para resolver o caca-palavras foi necessario criar funções que verifique onde está as palavras forncecidas pelo usuario, então o usuario pode digitar qual a palavra que ele deseja procurar e o algoritmo dara um resultado fornecendo em quais coordenadas o usuario encontra essa palavra, um exemplo disso é quando nos testamos em uma matriz que já esta definida no codigo, se digitarmos no terminal a palavra "SAPATO" ele deve retornar o valor que está localizado na matriz.
+
+
 ![WhatsApp Image 2023-06-29 at 19 20 05](https://github.com/Vinilazza/ProjetoFinalAlgoritmos/assets/108952051/68af52aa-e5c4-451d-9468-92aa919ff5d5)![WhatsApp Image 2023-06-29 at 19 22 39](https://github.com/Vinilazza/ProjetoFinalAlgoritmos/assets/108952051/cb7a5c70-5730-41c1-98be-d778a3a634de)
 
  Nessas duas imagens mostra o resultado. A matriz ela começa em 0, então se analizarmos a matriz o resultado está correto, pois a primeira letra está no 0 e termina no 5.
